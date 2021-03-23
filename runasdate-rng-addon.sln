@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "runasdate-rng-addon", "runasdate-rng-addon\runasdate-rng-addon.csproj", "{BFC38927-75DA-435E-B07A-F142982B6A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC38927-75DA-435E-B07A-F142982B6A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC38927-75DA-435E-B07A-F142982B6A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC38927-75DA-435E-B07A-F142982B6A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC38927-75DA-435E-B07A-F142982B6A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73804598-B2E2-49F7-9433-DA188964C6B6}
+	EndGlobalSection
+EndGlobal
